@@ -1,0 +1,2056 @@
+# Copyright (C) 2015 mudThemes
+# This file is distributed under the GNU General Public License, v2 (or newer).
+msgid ""
+msgstr ""
+"Project-Id-Version: Corpus 1.0.0.2\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/theme/corpus_theme\n"
+"POT-Creation-Date: 2015-12-30 08:27:24+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: archive.php:13
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: archive.php:15
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: archive.php:15
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: archive.php:17
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: archive.php:17
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: archive.php:19
+msgid "Blog Archives"
+msgstr ""
+
+#: archive.php:23
+msgid "<p>Archive of posts published in the specified %s </p>"
+msgstr ""
+
+#: author.php:11
+msgid "Author Archives"
+msgstr ""
+
+#: author.php:17
+msgid "Archive of the posts written by author : %s."
+msgstr ""
+
+#: category.php:11
+msgid "Category Archives"
+msgstr ""
+
+#: category.php:18
+msgid "Archive of posts published in the category: %s"
+msgstr ""
+
+#: comments.php:12
+msgid ""
+"This post is password protected. Enter the password to view any comments"
+msgstr ""
+
+#: comments.php:21
+msgid "Comments (%1$s)"
+msgstr ""
+
+#: comments.php:32
+msgid "Older Comments <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: comments.php:33
+msgid "<span class=\"meta-nav\">&larr;</span> Newer Comments"
+msgstr ""
+
+#: comments.php:40
+msgid "Sorry, Comments are closed."
+msgstr ""
+
+#: content/general/footer.php:24
+msgid "WordPress Theme by "
+msgstr ""
+
+#: content/general/loop.php:5
+msgid "Permalink to"
+msgstr ""
+
+#: content/general/loop.php:8
+msgid "Written on"
+msgstr ""
+
+#: content/general/loop.php:9
+msgid "by"
+msgstr ""
+
+#: content/general/loop.php:21 options.php:807 options.php:842 options.php:877
+#: options.php:912 options.php:980
+msgid "Read more"
+msgstr ""
+
+#: content/general/loop.php:23 page.php:24 single.php:44
+#: templates/page-sidebar-left.php:28 templates/page-sidebar-no.php:26
+#: templates/page-sidebar-right.php:28
+msgid "Pages:"
+msgstr ""
+
+#: functions.php:86
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:87
+msgid "Mobile Menu (Alternative)"
+msgstr ""
+
+#: functions.php:188 functions.php:190
+msgid "Right Sidebar"
+msgstr ""
+
+#: functions.php:199 functions.php:201
+msgid "Footerbox Sidebar #1"
+msgstr ""
+
+#: functions.php:210 functions.php:212
+msgid "Footerbox Sidebar #2"
+msgstr ""
+
+#: functions.php:221 functions.php:223
+msgid "Footerbox Sidebar #3"
+msgstr ""
+
+#: functions.php:232 functions.php:234
+msgid "Footerbox Sidebar #4"
+msgstr ""
+
+#: functions.php:592
+msgid "Page %s"
+msgstr ""
+
+#: functions.php:753
+msgid "Ooops! Nothing Found"
+msgstr ""
+
+#: functions.php:755 functions.php:757
+msgid "Nothing found for: %s"
+msgstr ""
+
+#: functions.php:764
+msgid ""
+"Apologies, but no results were found for the requested archive. Perhaps "
+"searching will help find a related post."
+msgstr ""
+
+#: functions.php:781
+msgid "Day"
+msgstr ""
+
+#: functions.php:783
+msgid "Month"
+msgstr ""
+
+#: functions.php:785
+msgid "Year"
+msgstr ""
+
+#: functions.php:787
+msgid "Period"
+msgstr ""
+
+#: functions.php:810
+msgid "<span class=\"meta-nav\">&larr;</span> Newer posts"
+msgstr ""
+
+#: functions.php:811
+msgid "Older posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: functions.php:951
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:963
+msgid "%s <span class=\"says\"></span>"
+msgstr ""
+
+#: functions.php:964
+msgid "%1$s ago"
+msgstr ""
+
+#: functions.php:972 functions.php:986
+msgid "(Edit)"
+msgstr ""
+
+#: functions.php:986
+msgid "Pingback:"
+msgstr ""
+
+#: functions.php:1004
+msgid "Blog"
+msgstr ""
+
+#: home.php:12
+msgid "Our Blog"
+msgstr ""
+
+#: includes/admin/admin-functions.php:13
+msgid "Corpus Options"
+msgstr ""
+
+#: includes/admin/admin-functions.php:23
+msgid "Content Sections"
+msgstr ""
+
+#: includes/admin/admin-functions.php:24
+msgid ""
+"All the above selected content sections will be shown on this post type."
+msgstr ""
+
+#: includes/admin/admin-functions.php:29
+msgid "Slideshow"
+msgstr ""
+
+#: includes/admin/admin-functions.php:30
+msgid "Headboxes"
+msgstr ""
+
+#: includes/admin/admin-functions.php:31
+msgid "About us"
+msgstr ""
+
+#: includes/admin/admin-functions.php:32
+msgid "Services"
+msgstr ""
+
+#: includes/admin/admin-functions.php:33
+msgid "Projects"
+msgstr ""
+
+#: includes/admin/admin-functions.php:34 options.php:1449
+msgid "Testimonials"
+msgstr ""
+
+#: includes/admin/admin-functions.php:35
+msgid "Quotes"
+msgstr ""
+
+#: includes/admin/admin-functions.php:40 options.php:2177
+msgid "Custom CSS"
+msgstr ""
+
+#: includes/admin/lib/cmb2/includes/CMB2.php:120
+msgid "Metabox configuration is required to have an ID parameter"
+msgstr ""
+
+#: includes/admin/lib/cmb2/includes/CMB2.php:332
+msgid "Click to toggle"
+msgstr ""
+
+#: includes/admin/lib/cmb2/includes/CMB2_Ajax.php:40
+msgid "Please Try Again"
+msgstr ""
+
+#: includes/admin/lib/cmb2/includes/CMB2_Ajax.php:135
+msgid "Remove Embed"
+msgstr ""
+
+#: includes/admin/lib/cmb2/includes/CMB2_Ajax.php:139
+msgid "No oEmbed Results Found for %s. View more info at"
+msgstr ""
+
+#: includes/admin/lib/cmb2/includes/CMB2_Field.php:955
+msgid "Add Group"
+msgstr ""
+
+#: includes/admin/lib/cmb2/includes/CMB2_Field.php:956
+msgid "Remove Group"
+msgstr ""
+
+#: includes/admin/lib/cmb2/includes/CMB2_Field.php:978
+#: includes/admin/lib/cmb2/includes/CMB2_Field.php:982
+msgid "None"
+msgstr ""
+
+#: includes/admin/lib/cmb2/includes/CMB2_JS.php:86
+#: includes/admin/lib/cmb2/includes/CMB2_JS.php:119
+msgid "Clear"
+msgstr ""
+
+#: includes/admin/lib/cmb2/includes/CMB2_JS.php:87 options.php:2089
+msgid "Default"
+msgstr ""
+
+#: includes/admin/lib/cmb2/includes/CMB2_JS.php:88
+msgid "Select Color"
+msgstr ""
+
+#: includes/admin/lib/cmb2/includes/CMB2_JS.php:89
+msgid "Current Color"
+msgstr ""
+
+#: includes/admin/lib/cmb2/includes/CMB2_JS.php:109
+msgctxt "Valid formatDate string for jquery-ui datepicker"
+msgid "mm/dd/yy"
+msgstr ""
+
+#: includes/admin/lib/cmb2/includes/CMB2_JS.php:110
+msgid "Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday"
+msgstr ""
+
+#: includes/admin/lib/cmb2/includes/CMB2_JS.php:111
+msgid "Su, Mo, Tu, We, Th, Fr, Sa"
+msgstr ""
+
+#: includes/admin/lib/cmb2/includes/CMB2_JS.php:112
+msgid "Sun, Mon, Tue, Wed, Thu, Fri, Sat"
+msgstr ""
+
+#: includes/admin/lib/cmb2/includes/CMB2_JS.php:113
+msgid ""
+"January, February, March, April, May, June, July, August, September, "
+"October, November, December"
+msgstr ""
+
+#: includes/admin/lib/cmb2/includes/CMB2_JS.php:114
+msgid "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec"
+msgstr ""
+
+#: includes/admin/lib/cmb2/includes/CMB2_JS.php:115
+msgid "Next"
+msgstr ""
+
+#: includes/admin/lib/cmb2/includes/CMB2_JS.php:116
+msgid "Prev"
+msgstr ""
+
+#: includes/admin/lib/cmb2/includes/CMB2_JS.php:117
+msgid "Today"
+msgstr ""
+
+#: includes/admin/lib/cmb2/includes/CMB2_JS.php:118
+#: includes/admin/lib/cmb2/includes/CMB2_JS.php:128
+msgid "Done"
+msgstr ""
+
+#: includes/admin/lib/cmb2/includes/CMB2_JS.php:122
+msgid "Choose Time"
+msgstr ""
+
+#: includes/admin/lib/cmb2/includes/CMB2_JS.php:123
+msgid "Time"
+msgstr ""
+
+#: includes/admin/lib/cmb2/includes/CMB2_JS.php:124
+msgid "Hour"
+msgstr ""
+
+#: includes/admin/lib/cmb2/includes/CMB2_JS.php:125
+msgid "Minute"
+msgstr ""
+
+#: includes/admin/lib/cmb2/includes/CMB2_JS.php:126
+msgid "Second"
+msgstr ""
+
+#: includes/admin/lib/cmb2/includes/CMB2_JS.php:127
+msgid "Now"
+msgstr ""
+
+#: includes/admin/lib/cmb2/includes/CMB2_JS.php:129
+msgctxt ""
+"Valid formatting string, as per http://trentrichardson.com/examples/"
+"timepicker/"
+msgid "hh:mm TT"
+msgstr ""
+
+#: includes/admin/lib/cmb2/includes/CMB2_JS.php:135
+msgid "Use this file"
+msgstr ""
+
+#: includes/admin/lib/cmb2/includes/CMB2_JS.php:136
+msgid "Use these files"
+msgstr ""
+
+#: includes/admin/lib/cmb2/includes/CMB2_JS.php:137
+#: includes/admin/lib/cmb2/includes/CMB2_Types.php:1004
+msgid "Remove Image"
+msgstr ""
+
+#: includes/admin/lib/cmb2/includes/CMB2_JS.php:138
+#: includes/admin/lib/cmb2/includes/CMB2_Types.php:357
+#: includes/admin/lib/cmb2/includes/CMB2_Types.php:1023
+#: includes/admin/lib/options-framework/options-medialibrary-uploader.php:71
+#: includes/admin/lib/options-framework/options-medialibrary-uploader.php:124
+msgid "Remove"
+msgstr ""
+
+#: includes/admin/lib/cmb2/includes/CMB2_JS.php:139
+#: includes/admin/lib/cmb2/includes/CMB2_Types.php:1018
+msgid "File:"
+msgstr ""
+
+#: includes/admin/lib/cmb2/includes/CMB2_JS.php:140
+#: includes/admin/lib/cmb2/includes/CMB2_Types.php:1021
+msgid "Download"
+msgstr ""
+
+#: includes/admin/lib/cmb2/includes/CMB2_JS.php:141
+msgid "Select / Deselect All"
+msgstr ""
+
+#: includes/admin/lib/cmb2/includes/CMB2_Types.php:298
+msgid "Add Row"
+msgstr ""
+
+#: includes/admin/lib/cmb2/includes/CMB2_Types.php:749
+#: includes/admin/lib/cmb2/includes/CMB2_Types.php:797
+msgid "No terms"
+msgstr ""
+
+#: includes/admin/lib/cmb2/includes/CMB2_Types.php:864
+msgid "Add or Upload Files"
+msgstr ""
+
+#: includes/admin/lib/cmb2/includes/CMB2_Types.php:926
+msgid "Add or Upload File"
+msgstr ""
+
+#: includes/admin/lib/cmb2/includes/helper-functions.php:250
+msgid "Save"
+msgstr ""
+
+#: includes/admin/lib/options-framework/options-framework.php:181
+msgid "Corpus Theme - Settings"
+msgstr ""
+
+#: includes/admin/lib/options-framework/options-framework.php:181
+#: includes/admin/lib/options-framework/options-framework.php:390
+msgid "Theme Options"
+msgstr ""
+
+#: includes/admin/lib/options-framework/options-framework.php:289
+msgid "<i class=\"mdf mdf-undo\"></i> Options reset"
+msgstr ""
+
+#: includes/admin/lib/options-framework/options-framework.php:339
+msgid "<i class=\"mdf mdf-check\"></i> Options saved"
+msgstr ""
+
+#: includes/admin/lib/options-framework/options-framework.php:465
+msgid ""
+"<i class=\"mdf mdf-quote-left\"></i> Upgrade to Corpus Premium <i class="
+"\"mdf mdf-quote-right\"></i> and get Colorful skins with 500+ Google Fonts, "
+"Beautiful Homepage, Multiple slides and much more."
+msgstr ""
+
+#: includes/admin/lib/options-framework/options-framework.php:492
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr ""
+
+#: includes/admin/lib/options-framework/options-medialibrary-uploader.php:66
+msgid "No file chosen"
+msgstr ""
+
+#: includes/admin/lib/options-framework/options-medialibrary-uploader.php:69
+#: includes/admin/lib/options-framework/options-medialibrary-uploader.php:123
+msgid "Upload"
+msgstr ""
+
+#: includes/admin/lib/options-framework/options-medialibrary-uploader.php:74
+msgid "Upgrade your version of WordPress for full media support."
+msgstr ""
+
+#: includes/admin/lib/options-framework/options-medialibrary-uploader.php:98
+msgid "View File"
+msgstr ""
+
+#: includes/admin/lib/options-framework/options-sanitize.php:240
+msgid "repeat"
+msgstr ""
+
+#: includes/admin/lib/options-framework/options-sanitize.php:241
+msgid "No Repeat"
+msgstr ""
+
+#: includes/admin/lib/options-framework/options-sanitize.php:242
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: includes/admin/lib/options-framework/options-sanitize.php:243
+msgid "Repeat Vertically"
+msgstr ""
+
+#: includes/admin/lib/options-framework/options-sanitize.php:244
+msgid "Repeat All"
+msgstr ""
+
+#: includes/admin/lib/options-framework/options-sanitize.php:257
+msgid "top left"
+msgstr ""
+
+#: includes/admin/lib/options-framework/options-sanitize.php:258
+msgid "Top Left"
+msgstr ""
+
+#: includes/admin/lib/options-framework/options-sanitize.php:259
+msgid "Top Center"
+msgstr ""
+
+#: includes/admin/lib/options-framework/options-sanitize.php:260
+msgid "Top Right"
+msgstr ""
+
+#: includes/admin/lib/options-framework/options-sanitize.php:261
+msgid "Middle Left"
+msgstr ""
+
+#: includes/admin/lib/options-framework/options-sanitize.php:262
+msgid "Middle Center"
+msgstr ""
+
+#: includes/admin/lib/options-framework/options-sanitize.php:263
+msgid "Middle Right"
+msgstr ""
+
+#: includes/admin/lib/options-framework/options-sanitize.php:264
+msgid "Bottom Left"
+msgstr ""
+
+#: includes/admin/lib/options-framework/options-sanitize.php:265
+msgid "Bottom Center"
+msgstr ""
+
+#: includes/admin/lib/options-framework/options-sanitize.php:266
+msgid "Bottom Right"
+msgstr ""
+
+#: includes/admin/lib/options-framework/options-sanitize.php:279
+msgid "fixed"
+msgstr ""
+
+#: includes/admin/lib/options-framework/options-sanitize.php:280
+msgid "Scroll Normally"
+msgstr ""
+
+#: includes/admin/lib/options-framework/options-sanitize.php:281
+msgid "Fixed in Place"
+msgstr ""
+
+#: includes/admin/lib/options-framework/options-sanitize.php:355
+msgid "Normal"
+msgstr ""
+
+#: includes/admin/lib/options-framework/options-sanitize.php:356
+msgid "Italic"
+msgstr ""
+
+#: includes/admin/lib/options-framework/options-sanitize.php:357
+msgid "Bold"
+msgstr ""
+
+#: includes/admin/lib/options-framework/options-sanitize.php:358
+msgid "Bold Italic"
+msgstr ""
+
+#: includes/modules/widgets.php:12
+msgid "Corpus Recent Posts"
+msgstr ""
+
+#: includes/modules/widgets.php:12
+msgid "This widget displays your recent posts with thumbnail"
+msgstr ""
+
+#: includes/modules/widgets.php:59 includes/modules/widgets.php:102
+#: sidebar.php:11
+msgid "Recent Posts"
+msgstr ""
+
+#: includes/modules/widgets.php:67 options.php:963
+msgid "Title:"
+msgstr ""
+
+#: includes/modules/widgets.php:73
+msgid "Number of posts to show:"
+msgstr ""
+
+#: includes/modules/widgets.php:80
+msgid "Most commented"
+msgstr ""
+
+#: options.php:50
+msgid "Basic Settings"
+msgstr ""
+
+#: options.php:54
+msgid "Select Skin"
+msgstr ""
+
+#: options.php:55
+msgid "Change the skin to modify theme colors."
+msgstr ""
+
+#: options.php:66
+msgid "Cadet Blue"
+msgstr ""
+
+#: options.php:67
+msgid "Orange Red"
+msgstr ""
+
+#: options.php:68
+msgid "Light Sea Green"
+msgstr ""
+
+#: options.php:69
+msgid "Pale Violet Red"
+msgstr ""
+
+#: options.php:74
+msgid "Layout Mode"
+msgstr ""
+
+#: options.php:75
+msgid ""
+"Change the layout mode of your theme between boxed mode or full-width mode."
+msgstr ""
+
+#: options.php:80
+msgid "Stretched Mode"
+msgstr ""
+
+#: options.php:81
+msgid "Boxed Mode"
+msgstr ""
+
+#: options.php:85
+msgid "Logo Image:"
+msgstr ""
+
+#: options.php:92
+msgid "Favicon Image:"
+msgstr ""
+
+#: options.php:99
+msgid "Organization Name:"
+msgstr ""
+
+#: options.php:100
+msgid "This will be shown in the Theme's footer."
+msgstr ""
+
+#: options.php:106
+msgid "Footer Copyright Text:"
+msgstr ""
+
+#: options.php:107
+msgid "Check this to show the Copyright information in the Theme's footer"
+msgstr ""
+
+#: options.php:113
+msgid "Footer Attribution Text:"
+msgstr ""
+
+#: options.php:114
+msgid "Check this to show the Attribution information in the Theme's footer"
+msgstr ""
+
+#: options.php:121
+msgid "Homepage Builder"
+msgstr ""
+
+#: options.php:125
+msgid "Homepage Sections:"
+msgstr ""
+
+#: options.php:126
+msgid "Select sections to be shown on Homepage."
+msgstr ""
+
+#: options.php:151
+msgid "Blog Sections:"
+msgstr ""
+
+#: options.php:152
+msgid "Select sections to be shown on Blog page."
+msgstr ""
+
+#: options.php:179
+msgid "Theme Layout"
+msgstr ""
+
+#: options.php:236
+msgid "Hide Header:"
+msgstr ""
+
+#: options.php:237
+msgid "Checking this will hide Theme's Header."
+msgstr ""
+
+#: options.php:243
+msgid "Hide Site Description:"
+msgstr ""
+
+#: options.php:244
+msgid "Checking this will hide site description from the header."
+msgstr ""
+
+#: options.php:250
+msgid "Hide Footer:"
+msgstr ""
+
+#: options.php:251
+msgid "Checking this will hide Theme's Footer."
+msgstr ""
+
+#: options.php:257
+msgid "Hide Primary Menu:"
+msgstr ""
+
+#: options.php:258
+msgid "Checking this will hide Primary Menu."
+msgstr ""
+
+#: options.php:264
+msgid "Disable Full Posts:<br />(Blog)"
+msgstr ""
+
+#: options.php:265
+msgid ""
+"Check this to show post excerpts rather than full posts on Homepage and "
+"other Archive pages. Note: This doesn't work with grid layouts"
+msgstr ""
+
+#: options.php:295
+msgid "Hide Post meta:<br />(Blog)"
+msgstr ""
+
+#: options.php:296
+msgid ""
+"Checking this will hide post meta information from the blog. Post meta is "
+"the information about a post, visible below the title."
+msgstr ""
+
+#: options.php:302
+msgid "Hide Post meta comments:<br />(Blog):"
+msgstr ""
+
+#: options.php:303
+msgid ""
+"Checking this will hide comments information from the post meta on blog page."
+msgstr ""
+
+#: options.php:309
+msgid "Hide Read more button:<br />(Blog)"
+msgstr ""
+
+#: options.php:310
+msgid "Checking this will hide read more button below posts."
+msgstr ""
+
+#: options.php:316
+msgid "Hide Bottom Navigation:<br />(Blog)"
+msgstr ""
+
+#: options.php:317
+msgid ""
+"Checking this will hide navigation links provided below all posts on the "
+"blog page."
+msgstr ""
+
+#: options.php:323
+msgid "Hide Breadcrumbs:"
+msgstr ""
+
+#: options.php:324
+msgid "Checking this will hide breadcrumbs from your site."
+msgstr ""
+
+#: options.php:330
+msgid "Hide Meta:<br />(Single Post)"
+msgstr ""
+
+#: options.php:331
+msgid "Checking this will hide post meta information from single posts."
+msgstr ""
+
+#: options.php:337
+msgid "Hide Sidebar:<br />(Single Post)"
+msgstr ""
+
+#: options.php:338
+msgid "Checking this will hide primary sidebar from the single posts."
+msgstr ""
+
+#: options.php:353
+msgid "Hide Sidebar:<br />(Page)"
+msgstr ""
+
+#: options.php:354
+msgid "Checking this will hide primary sidebar from pages."
+msgstr ""
+
+#: options.php:364
+msgid "Featured Section"
+msgstr ""
+
+#: options.php:368
+msgid "Title (Slide #1):"
+msgstr ""
+
+#: options.php:371 options.php:407
+msgid "Elegant and Stylish Theme"
+msgstr ""
+
+#: options.php:375
+msgid "Description (Slide #1):"
+msgstr ""
+
+#: options.php:378 options.php:414
+msgid ""
+"Beautiful and Attractive Layout with Theme Options to configure settings "
+"easily."
+msgstr ""
+
+#: options.php:382
+msgid "Button (Slide #1):"
+msgstr ""
+
+#: options.php:385 options.php:421
+msgid "See Documentation"
+msgstr ""
+
+#: options.php:389
+msgid "Button URL (Slide #1):"
+msgstr ""
+
+#: options.php:396
+msgid "Image (Slide #1):"
+msgstr ""
+
+#: options.php:404
+msgid "Title (Slide #2):"
+msgstr ""
+
+#: options.php:411
+msgid "Description (Slide #2):"
+msgstr ""
+
+#: options.php:418
+msgid "Button (Slide #2):"
+msgstr ""
+
+#: options.php:425
+msgid "Button URL (Slide #2):"
+msgstr ""
+
+#: options.php:432
+msgid "Image (Slide #2:)"
+msgstr ""
+
+#: options.php:439
+msgid "Title (Slide #3):"
+msgstr ""
+
+#: options.php:446
+msgid "Description (Slide #3):"
+msgstr ""
+
+#: options.php:453
+msgid "Button (Slide #3):"
+msgstr ""
+
+#: options.php:460
+msgid "Button URL (Slide #3):"
+msgstr ""
+
+#: options.php:467
+msgid "Image (Slide #3:)"
+msgstr ""
+
+#: options.php:474
+msgid "Title (Slide #4):"
+msgstr ""
+
+#: options.php:481
+msgid "Description (Slide #4):"
+msgstr ""
+
+#: options.php:488
+msgid "Button (Slide #4):"
+msgstr ""
+
+#: options.php:495
+msgid "Button URL (Slide #4):"
+msgstr ""
+
+#: options.php:502
+msgid "Image (Slide #4:)"
+msgstr ""
+
+#: options.php:509
+msgid "Title (Slide #5):"
+msgstr ""
+
+#: options.php:516
+msgid "Description (Slide #5):"
+msgstr ""
+
+#: options.php:523
+msgid "Button (Slide #5):"
+msgstr ""
+
+#: options.php:530
+msgid "Button URL (Slide #5):"
+msgstr ""
+
+#: options.php:537
+msgid "Image (Slide #5:)"
+msgstr ""
+
+#: options.php:544
+msgid "Title (Slide #6):"
+msgstr ""
+
+#: options.php:551
+msgid "Description (Slide #6):"
+msgstr ""
+
+#: options.php:558
+msgid "Button (Slide #6):"
+msgstr ""
+
+#: options.php:565
+msgid "Button URL (Slide #6):"
+msgstr ""
+
+#: options.php:572
+msgid "Image (Slide #6:)"
+msgstr ""
+
+#: options.php:579
+msgid "Title (Slide #7):"
+msgstr ""
+
+#: options.php:586
+msgid "Description (Slide #7):"
+msgstr ""
+
+#: options.php:593
+msgid "Button (Slide #7):"
+msgstr ""
+
+#: options.php:600
+msgid "Button URL (Slide #7):"
+msgstr ""
+
+#: options.php:607
+msgid "Image (Slide #7:)"
+msgstr ""
+
+#: options.php:614
+msgid "Title (Slide #8):"
+msgstr ""
+
+#: options.php:621
+msgid "Description (Slide #8):"
+msgstr ""
+
+#: options.php:628
+msgid "Button (Slide #8):"
+msgstr ""
+
+#: options.php:635
+msgid "Button URL (Slide #8):"
+msgstr ""
+
+#: options.php:642
+msgid "Image (Slide #8:)"
+msgstr ""
+
+#: options.php:649
+msgid "Title (Slide #9):"
+msgstr ""
+
+#: options.php:656
+msgid "Description (Slide #9):"
+msgstr ""
+
+#: options.php:663
+msgid "Button (Slide #9):"
+msgstr ""
+
+#: options.php:670
+msgid "Button URL (Slide #9):"
+msgstr ""
+
+#: options.php:677
+msgid "Image (Slide #9:)"
+msgstr ""
+
+#: options.php:684
+msgid "Title (Slide #10):"
+msgstr ""
+
+#: options.php:691
+msgid "Description (Slide #10):"
+msgstr ""
+
+#: options.php:698
+msgid "Button (Slide #10):"
+msgstr ""
+
+#: options.php:705
+msgid "Button URL (Slide #10):"
+msgstr ""
+
+#: options.php:712
+msgid "Image (Slide #10:)"
+msgstr ""
+
+#: options.php:722
+msgid "Slideshow Settings"
+msgstr ""
+
+#: options.php:726
+msgid "Slideshow Speed"
+msgstr ""
+
+#: options.php:727
+msgid "Speed of slideshow"
+msgstr ""
+
+#: options.php:734
+msgid "Slideshow Animation Speed"
+msgstr ""
+
+#: options.php:735
+msgid "Speed of slideshow animation"
+msgstr ""
+
+#: options.php:742
+msgid "Hide Navigation:"
+msgstr ""
+
+#: options.php:743
+msgid "Hide left and right navigation"
+msgstr ""
+
+#: options.php:749
+msgid "Smooth Height:"
+msgstr ""
+
+#: options.php:750
+msgid "Disable Smooth Height."
+msgstr ""
+
+#: options.php:756
+msgid "Animation Type"
+msgstr ""
+
+#: options.php:757
+msgid "Slideshow animation type."
+msgstr ""
+
+#: options.php:779
+msgid "Headbox Section"
+msgstr ""
+
+#: options.php:783
+msgid "Head box #1 (Title):"
+msgstr ""
+
+#: options.php:784
+msgid "The title of head box #1."
+msgstr ""
+
+#: options.php:786
+msgid "Headbox #1 (Title)"
+msgstr ""
+
+#: options.php:790
+msgid "Head box #1 (Content):"
+msgstr ""
+
+#: options.php:791
+msgid "The content of head box #1."
+msgstr ""
+
+#: options.php:793 options.php:828 options.php:863 options.php:898
+msgid "A simple and nice description about this Headbox."
+msgstr ""
+
+#: options.php:797
+msgid "Head box #1 (Button Enabled):"
+msgstr ""
+
+#: options.php:798 options.php:833 options.php:868 options.php:903
+msgid "Checking this will show button for this column."
+msgstr ""
+
+#: options.php:804
+msgid "Head box #1 (Button Text):"
+msgstr ""
+
+#: options.php:805 options.php:840 options.php:875 options.php:910
+msgid ""
+"The text of button that appears below the box. (Remove all text to hide the "
+"Button)"
+msgstr ""
+
+#: options.php:811
+msgid "Head box #1 (Button URL):"
+msgstr ""
+
+#: options.php:812 options.php:847 options.php:882 options.php:917
+msgid "The link of button that appears below the box."
+msgstr ""
+
+#: options.php:818
+msgid "Head box #2 (Title):"
+msgstr ""
+
+#: options.php:821
+msgid "Headbox #2 (Title)"
+msgstr ""
+
+#: options.php:825
+msgid "Head box #2 (Content):"
+msgstr ""
+
+#: options.php:832
+msgid "Head box #2 (Button Enabled):"
+msgstr ""
+
+#: options.php:839
+msgid "Head box #2 (Button Text):"
+msgstr ""
+
+#: options.php:846
+msgid "Head box #2 (Button URL):"
+msgstr ""
+
+#: options.php:853
+msgid "Head box #3 (Title):"
+msgstr ""
+
+#: options.php:856
+msgid "Headbox #3 (Title)"
+msgstr ""
+
+#: options.php:860
+msgid "Head box #3 (Content):"
+msgstr ""
+
+#: options.php:867
+msgid "Head box #3 (Button Enabled):"
+msgstr ""
+
+#: options.php:874
+msgid "Head box #3 (Button Text):"
+msgstr ""
+
+#: options.php:881
+msgid "Head box #3 (Button URL):"
+msgstr ""
+
+#: options.php:888
+msgid "Head box #4 (Title):"
+msgstr ""
+
+#: options.php:891
+msgid "Headbox #4 (Title)"
+msgstr ""
+
+#: options.php:895
+msgid "Head box #4 (Content):"
+msgstr ""
+
+#: options.php:902
+msgid "Head box #4 (Button Enabled):"
+msgstr ""
+
+#: options.php:909
+msgid "Head box #4 (Button Text):"
+msgstr ""
+
+#: options.php:916
+msgid "Head box #4 (Button URL):"
+msgstr ""
+
+#: options.php:952
+msgid "About us Section"
+msgstr ""
+
+#: options.php:956
+msgid "Background Image:"
+msgstr ""
+
+#: options.php:964
+msgid "The Title for About us section."
+msgstr ""
+
+#: options.php:970
+msgid "Content:"
+msgstr ""
+
+#: options.php:971
+msgid "The Content for About us section."
+msgstr ""
+
+#: options.php:973
+msgid "This is all about me!"
+msgstr ""
+
+#: options.php:977
+msgid "Button Text:"
+msgstr ""
+
+#: options.php:978
+msgid "The text of button."
+msgstr ""
+
+#: options.php:984
+msgid "Button URL:"
+msgstr ""
+
+#: options.php:985
+msgid "The URL of button."
+msgstr ""
+
+#: options.php:995 options.php:1002
+msgid "Service Section"
+msgstr ""
+
+#: options.php:999
+msgid "Headline Text:"
+msgstr ""
+
+#: options.php:1000
+msgid "The headline for service section (appears at the top)."
+msgstr ""
+
+#: options.php:1006
+msgid "Headline Description:"
+msgstr ""
+
+#: options.php:1007
+msgid "The Description for service section (appears at the top)."
+msgstr ""
+
+#: options.php:1009
+msgid "Use Theme Options to modify this section or see Documentation."
+msgstr ""
+
+#: options.php:1013
+msgid "Service Columns #1 (Image):"
+msgstr ""
+
+#: options.php:1020
+msgid "Service Columns #1 (Title):"
+msgstr ""
+
+#: options.php:1023
+msgid "Service #1 (Title)"
+msgstr ""
+
+#: options.php:1027
+msgid "Service Column #1 (Description):"
+msgstr ""
+
+#: options.php:1030 options.php:1051 options.php:1072
+msgid "A description about this service."
+msgstr ""
+
+#: options.php:1034
+msgid "Service Columns #2 (Image):"
+msgstr ""
+
+#: options.php:1041
+msgid "Service Columns #2 (Title):"
+msgstr ""
+
+#: options.php:1044
+msgid "Service #2 (Title)"
+msgstr ""
+
+#: options.php:1048
+msgid "Service Column #2 (Description):"
+msgstr ""
+
+#: options.php:1055
+msgid "Service Columns #3 (Image):"
+msgstr ""
+
+#: options.php:1062
+msgid "Service Columns #3 (Title):"
+msgstr ""
+
+#: options.php:1065
+msgid "Service #3 (Title)"
+msgstr ""
+
+#: options.php:1069
+msgid "Service Column #3 (Description):"
+msgstr ""
+
+#: options.php:1148
+msgid "Project Section"
+msgstr ""
+
+#: options.php:1152
+msgid "Project Section (Headline):"
+msgstr ""
+
+#: options.php:1153
+msgid "The headline of the project section."
+msgstr ""
+
+#: options.php:1159
+msgid "Project Section (Description):"
+msgstr ""
+
+#: options.php:1160
+msgid "The description of the project section."
+msgstr ""
+
+#: options.php:1166
+msgid "Project #1 (Image):"
+msgstr ""
+
+#: options.php:1173
+msgid "Project #1 (Title):"
+msgstr ""
+
+#: options.php:1174 options.php:1209 options.php:1244 options.php:1279
+#: options.php:1314 options.php:1349 options.php:1384 options.php:1419
+msgid "The title of the project"
+msgstr ""
+
+#: options.php:1180
+msgid "Project #1 (Content):"
+msgstr ""
+
+#: options.php:1181 options.php:1216 options.php:1251 options.php:1286
+#: options.php:1321 options.php:1356 options.php:1391 options.php:1426
+msgid "The description of the project"
+msgstr ""
+
+#: options.php:1187
+msgid "Project #1 (Link Text):"
+msgstr ""
+
+#: options.php:1188 options.php:1223 options.php:1258 options.php:1293
+#: options.php:1328 options.php:1363 options.php:1398 options.php:1433
+msgid "The text of the project link (e.g. Learn more..)"
+msgstr ""
+
+#: options.php:1190 options.php:1225 options.php:1260 options.php:1295
+#: options.php:1330 options.php:1365 options.php:1400 options.php:1435
+msgid "Learn more.."
+msgstr ""
+
+#: options.php:1194
+msgid "Project #1 (Link URL):"
+msgstr ""
+
+#: options.php:1195 options.php:1230 options.php:1265 options.php:1300
+#: options.php:1335 options.php:1370 options.php:1405 options.php:1440
+msgid "The URL of the project link (e.g. http://www.mudthemes.com)"
+msgstr ""
+
+#: options.php:1201
+msgid "Project #2 (Image):"
+msgstr ""
+
+#: options.php:1208
+msgid "Project #2 (Title):"
+msgstr ""
+
+#: options.php:1215
+msgid "Project #2 (Content):"
+msgstr ""
+
+#: options.php:1222
+msgid "Project #2 (Link Text):"
+msgstr ""
+
+#: options.php:1229
+msgid "Project #2 (Link URL):"
+msgstr ""
+
+#: options.php:1236
+msgid "Project #3 (Image):"
+msgstr ""
+
+#: options.php:1243
+msgid "Project #3 (Title):"
+msgstr ""
+
+#: options.php:1250
+msgid "Project #3 (Content):"
+msgstr ""
+
+#: options.php:1257
+msgid "Project #3 (Link Text):"
+msgstr ""
+
+#: options.php:1264
+msgid "Project #3 (Link URL):"
+msgstr ""
+
+#: options.php:1271
+msgid "Project #4 (Image):"
+msgstr ""
+
+#: options.php:1278
+msgid "Project #4 (Title):"
+msgstr ""
+
+#: options.php:1285
+msgid "Project #4 (Content):"
+msgstr ""
+
+#: options.php:1292
+msgid "Project #4 (Link Text):"
+msgstr ""
+
+#: options.php:1299
+msgid "Project #4 (Link URL):"
+msgstr ""
+
+#: options.php:1306
+msgid "Project #5 (Image):"
+msgstr ""
+
+#: options.php:1313
+msgid "Project #5 (Title):"
+msgstr ""
+
+#: options.php:1320
+msgid "Project #5 (Content):"
+msgstr ""
+
+#: options.php:1327
+msgid "Project #5 (Link Text):"
+msgstr ""
+
+#: options.php:1334
+msgid "Project #5 (Link URL):"
+msgstr ""
+
+#: options.php:1341
+msgid "Project #6 (Image):"
+msgstr ""
+
+#: options.php:1348
+msgid "Project #6 (Title):"
+msgstr ""
+
+#: options.php:1355
+msgid "Project #6 (Content):"
+msgstr ""
+
+#: options.php:1362
+msgid "Project #6 (Link Text):"
+msgstr ""
+
+#: options.php:1369
+msgid "Project #6 (Link URL):"
+msgstr ""
+
+#: options.php:1376
+msgid "Project #7 (Image):"
+msgstr ""
+
+#: options.php:1383
+msgid "Project #7 (Title):"
+msgstr ""
+
+#: options.php:1390
+msgid "Project #7 (Content):"
+msgstr ""
+
+#: options.php:1397
+msgid "Project #7 (Link Text):"
+msgstr ""
+
+#: options.php:1404
+msgid "Project #7 (Link URL):"
+msgstr ""
+
+#: options.php:1411
+msgid "Project #8 (Image):"
+msgstr ""
+
+#: options.php:1418
+msgid "Project #8 (Title):"
+msgstr ""
+
+#: options.php:1425
+msgid "Project #8 (Content):"
+msgstr ""
+
+#: options.php:1432
+msgid "Project #8 (Link Text):"
+msgstr ""
+
+#: options.php:1439
+msgid "Project #8 (Link URL):"
+msgstr ""
+
+#: options.php:1453
+msgid "Testimonials (Headline):"
+msgstr ""
+
+#: options.php:1454
+msgid "Testimonial Section Headline"
+msgstr ""
+
+#: options.php:1460
+msgid "Testimonials (Description):"
+msgstr ""
+
+#: options.php:1461
+msgid "Testimonial Section Description"
+msgstr ""
+
+#: options.php:1467
+msgid "Testimonial #1 (Client Image):"
+msgstr ""
+
+#: options.php:1474
+msgid "Testimonial #1 (Client Name):"
+msgstr ""
+
+#: options.php:1475 options.php:1503 options.php:1531 options.php:1559
+#: options.php:1587 options.php:1615 options.php:1643 options.php:1671
+#: options.php:1699 options.php:1727
+msgid "The name of the client."
+msgstr ""
+
+#: options.php:1481
+msgid "Testimonial #1 (Client Identity):"
+msgstr ""
+
+#: options.php:1482 options.php:1510 options.php:1538 options.php:1566
+#: options.php:1594 options.php:1622 options.php:1650 options.php:1678
+#: options.php:1706 options.php:1734
+msgid "The identity of the client like \"Web Designer\" or \"New York\"."
+msgstr ""
+
+#: options.php:1488
+msgid "Testimonial #1 (Client Says):"
+msgstr ""
+
+#: options.php:1489 options.php:1517 options.php:1545 options.php:1573
+#: options.php:1601 options.php:1629 options.php:1657 options.php:1685
+#: options.php:1713 options.php:1741
+msgid "The testimonial itself."
+msgstr ""
+
+#: options.php:1491
+msgid "This is a great site. I love it!"
+msgstr ""
+
+#: options.php:1495
+msgid "Testimonial #2 (Client Image):"
+msgstr ""
+
+#: options.php:1502
+msgid "Testimonial #2 (Client Name):"
+msgstr ""
+
+#: options.php:1509
+msgid "Testimonial #2 (Client Identity):"
+msgstr ""
+
+#: options.php:1516
+msgid "Testimonial #2 (Client Says):"
+msgstr ""
+
+#: options.php:1523
+msgid "Testimonial #3 (Client Image):"
+msgstr ""
+
+#: options.php:1530
+msgid "Testimonial #3 (Client Name):"
+msgstr ""
+
+#: options.php:1537
+msgid "Testimonial #3 (Client Identity):"
+msgstr ""
+
+#: options.php:1544
+msgid "Testimonial #3 (Client Says):"
+msgstr ""
+
+#: options.php:1551
+msgid "Testimonial #4 (Client Image):"
+msgstr ""
+
+#: options.php:1558
+msgid "Testimonial #4 (Client Name):"
+msgstr ""
+
+#: options.php:1565
+msgid "Testimonial #4 (Client Identity):"
+msgstr ""
+
+#: options.php:1572
+msgid "Testimonial #4 (Client Says):"
+msgstr ""
+
+#: options.php:1579
+msgid "Testimonial #5 (Client Image):"
+msgstr ""
+
+#: options.php:1586
+msgid "Testimonial #5 (Client Name):"
+msgstr ""
+
+#: options.php:1593
+msgid "Testimonial #5 (Client Identity):"
+msgstr ""
+
+#: options.php:1600
+msgid "Testimonial #5 (Client Says):"
+msgstr ""
+
+#: options.php:1607
+msgid "Testimonial #6 (Client Image):"
+msgstr ""
+
+#: options.php:1614
+msgid "Testimonial #6 (Client Name):"
+msgstr ""
+
+#: options.php:1621
+msgid "Testimonial #6 (Client Identity):"
+msgstr ""
+
+#: options.php:1628
+msgid "Testimonial #6 (Client Says):"
+msgstr ""
+
+#: options.php:1635
+msgid "Testimonial #7 (Client Image):"
+msgstr ""
+
+#: options.php:1642
+msgid "Testimonial #7 (Client Name):"
+msgstr ""
+
+#: options.php:1649
+msgid "Testimonial #7 (Client Identity):"
+msgstr ""
+
+#: options.php:1656
+msgid "Testimonial #7 (Client Says):"
+msgstr ""
+
+#: options.php:1663
+msgid "Testimonial #8 (Client Image):"
+msgstr ""
+
+#: options.php:1670
+msgid "Testimonial #8 (Client Name):"
+msgstr ""
+
+#: options.php:1677
+msgid "Testimonial #8 (Client Identity):"
+msgstr ""
+
+#: options.php:1684
+msgid "Testimonial #8 (Client Says):"
+msgstr ""
+
+#: options.php:1691
+msgid "Testimonial #9 (Client Image):"
+msgstr ""
+
+#: options.php:1698
+msgid "Testimonial #9 (Client Name):"
+msgstr ""
+
+#: options.php:1705
+msgid "Testimonial #9 (Client Identity):"
+msgstr ""
+
+#: options.php:1712
+msgid "Testimonial #9 (Client Says):"
+msgstr ""
+
+#: options.php:1719
+msgid "Testimonial #10 (Client Image):"
+msgstr ""
+
+#: options.php:1726
+msgid "Testimonial #10 (Client Name):"
+msgstr ""
+
+#: options.php:1733
+msgid "Testimonial #10 (Client Identity):"
+msgstr ""
+
+#: options.php:1740
+msgid "Testimonial #10 (Client Says):"
+msgstr ""
+
+#: options.php:1751
+msgid "Quote Section"
+msgstr ""
+
+#: options.php:1755
+msgid "Quote Title:"
+msgstr ""
+
+#: options.php:1756
+msgid "The text that appears as title in the quote section."
+msgstr ""
+
+#: options.php:1758
+msgid "Write a beautiful title"
+msgstr ""
+
+#: options.php:1762
+msgid "Quote Description:"
+msgstr ""
+
+#: options.php:1763
+msgid "The text that appears as description in the quote section."
+msgstr ""
+
+#: options.php:1765
+msgid "A nice description"
+msgstr ""
+
+#: options.php:1769
+msgid "Quote Button (Text):"
+msgstr ""
+
+#: options.php:1770
+msgid "The text on the quote button."
+msgstr ""
+
+#: options.php:1772
+msgid "Contact us"
+msgstr ""
+
+#: options.php:1776
+msgid "Quote Button (URL):"
+msgstr ""
+
+#: options.php:1777
+msgid ""
+"The URL (link) of the quote button. (This must be the URL of your contact "
+"page.)"
+msgstr ""
+
+#: options.php:1786
+msgid "Font Settings"
+msgstr ""
+
+#: options.php:1790
+msgid "Primary Font:"
+msgstr ""
+
+#: options.php:1791
+msgid "This will be the primary font of the theme."
+msgstr ""
+
+#: options.php:1799
+msgid "Secondary Font:"
+msgstr ""
+
+#: options.php:1800
+msgid "This will be the secondary font of the theme."
+msgstr ""
+
+#: options.php:1808
+msgid "Site Title Font:"
+msgstr ""
+
+#: options.php:1809
+msgid "This font applies to the site title text."
+msgstr ""
+
+#: options.php:1817
+msgid "Menu Font:"
+msgstr ""
+
+#: options.php:1818
+msgid "This font applies to the Primary menu."
+msgstr ""
+
+#: options.php:1826
+msgid "Footer Font:"
+msgstr ""
+
+#: options.php:1827
+msgid "This font applies to footer of the site."
+msgstr ""
+
+#: options.php:1960
+msgid "Color Options"
+msgstr ""
+
+#: options.php:1964
+msgid "Site Title Color:"
+msgstr ""
+
+#: options.php:1965
+msgid "Changes the color of the site title."
+msgstr ""
+
+#: options.php:1971
+msgid "Site Description Color:"
+msgstr ""
+
+#: options.php:1972
+msgid "Changes the color of site description."
+msgstr ""
+
+#: options.php:1978
+msgid "Post Title Color:<br />(blog)"
+msgstr ""
+
+#: options.php:1979
+msgid "Changes the post title color only on blog page."
+msgstr ""
+
+#: options.php:1985
+msgid "Post Meta Color:<br />(blog)"
+msgstr ""
+
+#: options.php:1986
+msgid ""
+"Changes the post meta color only on blog page. (means: information about "
+"date/comments/author etc.)"
+msgstr ""
+
+#: options.php:1992
+msgid "Post Content Color:<br />(blog)"
+msgstr ""
+
+#: options.php:1993
+msgid "Changes the post content color only on blog page."
+msgstr ""
+
+#: options.php:2023
+msgid "Post Title Color:<br />(post/page)"
+msgstr ""
+
+#: options.php:2024
+msgid "Changes the post title color on posts/page."
+msgstr ""
+
+#: options.php:2030
+msgid "Post Meta Color:<br />(posts)"
+msgstr ""
+
+#: options.php:2031
+msgid "Changes the post meta color on single posts."
+msgstr ""
+
+#: options.php:2037
+msgid "Post Content Color:<br />(page/posts)"
+msgstr ""
+
+#: options.php:2038
+msgid ""
+"Changes the post content color on single posts.(means: color for &#60;p&#62; "
+"tag.)"
+msgstr ""
+
+#: options.php:2072
+msgid "Social Options"
+msgstr ""
+
+#: options.php:2076
+msgid "Hide Social Section:"
+msgstr ""
+
+#: options.php:2077
+msgid "Checking this will hide Social Section."
+msgstr ""
+
+#: options.php:2083
+msgid "Social Icons Skin"
+msgstr ""
+
+#: options.php:2084
+msgid "Choose the skin for your Social Icons that appear in footer."
+msgstr ""
+
+#: options.php:2090
+msgid "Matching"
+msgstr ""
+
+#: options.php:2091
+msgid "Original"
+msgstr ""
+
+#: options.php:2096
+msgid "Facebook Profile:"
+msgstr ""
+
+#: options.php:2097 options.php:2104 options.php:2111 options.php:2118
+#: options.php:2125 options.php:2132 options.php:2139 options.php:2146
+#: options.php:2153 options.php:2160 options.php:2167
+msgid "Include http:// or https:// with the URL."
+msgstr ""
+
+#: options.php:2103
+msgid "Twitter Profile:"
+msgstr ""
+
+#: options.php:2110
+msgid "Google+ Profile:"
+msgstr ""
+
+#: options.php:2117
+msgid "Linkedin Profile:"
+msgstr ""
+
+#: options.php:2124
+msgid "Instagram Profile:"
+msgstr ""
+
+#: options.php:2131
+msgid "Pinterest Profile:"
+msgstr ""
+
+#: options.php:2138
+msgid "Tumblr Profile:"
+msgstr ""
+
+#: options.php:2145
+msgid "Dribbble Profile:"
+msgstr ""
+
+#: options.php:2152
+msgid "YouTube Channel: (New Icon)"
+msgstr ""
+
+#: options.php:2159
+msgid "YouTube Channel: (Old Icon)"
+msgstr ""
+
+#: options.php:2166
+msgid "RSS Feed:"
+msgstr ""
+
+#: options.php:2185
+msgid "Custom CSS Styles:"
+msgstr ""
+
+#: options.php:2186
+msgid ""
+"<strong>Important:</strong> Use this section only if you are well versed "
+"with CSS styling. Any bad input here can ruin the entire look of your theme. "
+"You can put your custom CSS styles here. It is recommended that you use this "
+"section rather than editing <i>style.css</i> directly."
+msgstr ""
+
+#: options.php:2199
+msgid "Google Analytics"
+msgstr ""
+
+#: options.php:2207
+msgid "Google Analytics Script:"
+msgstr ""
+
+#: options.php:2208
+msgid ""
+"<strong>Important:</strong> Insert your Google Analytics Javascript code "
+"here. This code will be inserted into all the pages of your theme."
+msgstr ""
+
+#: page.php:28 single.php:48 templates/page-sidebar-left.php:32
+#: templates/page-sidebar-no.php:30 templates/page-sidebar-right.php:32
+msgid "Edit"
+msgstr ""
+
+#: search.php:12
+msgid "Search Results"
+msgstr ""
+
+#: search.php:13
+msgid "We have found following content based on your search query: %s."
+msgstr ""
+
+#: searchform.php:11
+msgid "Search..."
+msgstr ""
+
+#: searchform.php:12
+msgid "Go"
+msgstr ""
+
+#: sidebar.php:15
+msgid "Search"
+msgstr ""
+
+#: single.php:26
+msgid "%1$s<span class=\"meta-author-url\">, By %2$s </span>"
+msgstr ""
+
+#: single.php:49
+msgid "Tags: "
+msgstr ""
+
+#: tag.php:11
+msgid "Tag Archives"
+msgstr ""
+
+#: tag.php:18
+msgid "Archive of posts published in the tag: %s"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Corpus"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://www.mudthemes.com/showcase/corpus-theme/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Corpus is a clean, beautiful and responsive theme useful for personal "
+"blogging, corporate or magazine blogs. Corpus has a single menu with 4 "
+"sidebars which consist of a beautiful Footer box and a slideshow section "
+"with text overlay. Corpus is fully Translation ready and comes with 100% GPL "
+"license and online documentation."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "mudThemes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.mudthemes.com"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Page with left sidebar"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Page without sidebar"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Page with right sidebar"
+msgstr ""
