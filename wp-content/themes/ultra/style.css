@@ -3213,7 +3213,7 @@ article {
       color: #acaeaf; }
       .comments-area .comment-metadata a:hover {
         color: #0896fe; }
-    @media (max-width: 1024px) {
+    @media (max-width: 3024px) {
       .resp .comments-area .comment-metadata .edit-link {
         display: none; } }
     .comments-area .comment-metadata .edit-link:before {
