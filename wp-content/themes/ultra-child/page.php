@@ -69,16 +69,20 @@ get_header(); ?>
 						
 						'<tr><td>ZymoBIOMICS Microbial Community DNA Standard</td><td>D6306</td><td>2000 ng</td><td>$208.00</td><td class="inputCell"><input style="padding:0; " type="text" name="qty[1654]" maxlength="12" placeholder="0" title="Qty" class="input-text qty" id="qtyinput" onchange="save_id(1654, this.value)" prodid="1654"></td></tr>'
 						
-					} else if(url ==="plasmid-miniprep"){
-						prodRow = '<tr><td>ZymoPURE™ Plasmid Miniprep Kit</td><td>D4209</td><td>10 Preps</td><td>$30.00</td><td class="inputCell"><input style="padding:0; " type="text" name="qty[1756]" maxlength="12" placeholder="0" title="Qty" class="input-text qty" id="qtyinput" onchange="save_id(1756, this.value)" prodid="1756"></td></tr>' + 
+					} else if(url.includes("dnarna-shield")){
+						prodRow = '<tr><td>DNA/RNA Shield</td><td>R1100-50</td><td>50 ml</td><td>$68.00</td><td class="inputCell"><input style="padding:0; " type="text" name="qty[1133]" maxlength="12" placeholder="0" title="Qty" class="input-text qty" id="qtyinput" onchange="save_id(1133, this.value)" prodid="1133"></td></tr>' + 
 						
-						'<tr><td>ZymoPURE™ Plasmid Miniprep Kit</td><td>D4208T</td><td>50 Preps</td><td>$83.00</td><td class="inputCell"><input style="padding:0; " type="text" name="qty[1757]" maxlength="12" placeholder="0" title="Qty" class="input-text qty" id="qtyinput" onchange="save_id(1757, this.value)" prodid="1757"></td></tr>' +
+						'<tr><td>DNA/RNA Shield</td><td>R1100-250</td><td>50 ml</td><td>$241.00</td><td class="inputCell"><input style="padding:0; " type="text" name="qty[1134]" maxlength="12" placeholder="0" title="Qty" class="input-text qty" id="qtyinput" onchange="save_id(1134, this.value)" prodid="1134"></td></tr>' +
 						
-						'<tr><td>ZymoPURE™ Plasmid Miniprep Kit</td><td>D4210</td><td>100 Preps</td><td>$155.00</td><td class="inputCell"><input style="padding:0; " type="text" name="qty[1758]" maxlength="12" placeholder="0" title="Qty" class="input-text qty" id="qtyinput" onchange="save_id(1758, this.value)" prodid="1758"></td></tr>' + 
+						'<tr><td>DNA/RNA Shield (2X concentrate)</td><td>R1200-25</td><td>25 ml</td><td>$68.00</td><td class="inputCell"><input style="padding:0; " type="text" name="qty[1564]" maxlength="12" placeholder="0" title="Qty" class="input-text qty" id="qtyinput" onchange="save_id(1564, this.value)" prodid="1564"></td></tr>' +
 						
-						'<tr><td>ZymoPURE™ Plasmid Miniprep Kit</td><td>D4211</td><td>400 Preps</td><td>$560.00</td><td class="inputCell"><input style="padding:0; " type="text" name="qty[1759]" maxlength="12" placeholder="0" title="Qty" class="input-text qty" id="qtyinput" onchange="save_id(1759, this.value)" prodid="1759"></td></tr>' +
+						'<tr><td>DNA/RNA Shield (2X concentrate)</td><td>R1200-125</td><td>125 ml</td><td>$241.00</td><td class="inputCell"><input style="padding:0; " type="text" name="qty[1565]" maxlength="12" placeholder="0" title="Qty" class="input-text qty" id="qtyinput" onchange="save_id(1565, this.value)" prodid="1565"></td></tr>'
 						
-						'<tr><td>ZymoPURE™ Plasmid Miniprep Kit</td><td>D4212</td><td>800 Preps</td><td>$992.00</td><td class="inputCell"><input style="padding:0; " type="text" name="qty[1760]" maxlength="12" placeholder="0" title="Qty" class="input-text qty" id="qtyinput" onchange="save_id(1760, this.value)" prodid="1760"></td></tr>'
+						
+						
+						
+						
+					
 					} else if(url === "endozero"){
 						prodRow = '<tr><td>ZymoPURE - EndoZero™ Plasmid Maxiprep</td><td>D4205</td><td>10 Preps</td><td>$300.00</td><td class="inputCell"><input style="padding:0; " type="text" name="qty[1765]" maxlength="12" placeholder="0" title="Qty" class="input-text qty" id="qtyinput" onchange="save_id(1765, this.value)" prodid="1765"></td></tr>' + 
 						
