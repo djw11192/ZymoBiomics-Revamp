@@ -77,16 +77,13 @@ get_header(); ?>
 						'<tr><td>DNA/RNA Shield (2X concentrate)</td><td>R1200-25</td><td>25 ml</td><td>$68.00</td><td class="inputCell"><input style="padding:0; " type="text" name="qty[1564]" maxlength="12" placeholder="0" title="Qty" class="input-text qty" id="qtyinput" onchange="save_id(1564, this.value)" prodid="1564"></td></tr>' +
 						
 						'<tr><td>DNA/RNA Shield (2X concentrate)</td><td>R1200-125</td><td>125 ml</td><td>$241.00</td><td class="inputCell"><input style="padding:0; " type="text" name="qty[1565]" maxlength="12" placeholder="0" title="Qty" class="input-text qty" id="qtyinput" onchange="save_id(1565, this.value)" prodid="1565"></td></tr>'
-						
-						
-						
-						
-						
 					
-					} else if(url === "endozero"){
-						prodRow = '<tr><td>ZymoPURE - EndoZero™ Plasmid Maxiprep</td><td>D4205</td><td>10 Preps</td><td>$300.00</td><td class="inputCell"><input style="padding:0; " type="text" name="qty[1765]" maxlength="12" placeholder="0" title="Qty" class="input-text qty" id="qtyinput" onchange="save_id(1765, this.value)" prodid="1765"></td></tr>' + 
+					} else if(url.includes("dna-extraction")){
+						prodRow = '<tr><td>ZymoBIOMICS DNA Miniprep Kit</td><td>D4300T</td><td>5 Preps</td><td>$40.00</td><td class="inputCell"><input style="padding:0; " type="text" name="qty[1784]" maxlength="12" placeholder="0" title="Qty" class="input-text qty" id="qtyinput" onchange="save_id(1784, this.value)" prodid="1784"></td></tr>' + 
 						
-						'<tr><td>ZymoPURE - EndoZero™ Plasmid Gigaprep</td><td>D4207</td><td>5 Preps</td><td>$700.00</td><td class="inputCell"><input style="padding:0; " type="text" name="qty[1767]" maxlength="12" placeholder="0" title="Qty" class="input-text qty" id="qtyinput" onchange="save_id(1767, this.value)" prodid="1767"></td></tr>'
+						'<tr><td>ZymoBIOMICS DNA Miniprep Kit</td><td>D4300</td><td>50 Preps</td><td>$290.00</td><td class="inputCell"><input style="padding:0; " type="text" name="qty[1652]" maxlength="12" placeholder="0" title="Qty" class="input-text qty" id="qtyinput" onchange="save_id(1652, this.value)" prodid="1652"></td></tr>' +
+						
+						'<tr><td>ZymoBIOMICS DNA Miniprep Kit (Lysis Matrix Not Included)</td><td>D4304</td><td>50 Preps</td><td>$202.00</td><td class="inputCell"><input style="padding:0; " type="text" name="qty[1697]" maxlength="12" placeholder="0" title="Qty" class="input-text qty" id="qtyinput" onchange="save_id(1697, this.value)" prodid="1697"></td></tr>' 
 						
 						
 					} else if(url === "midi-maxi-giga"){
