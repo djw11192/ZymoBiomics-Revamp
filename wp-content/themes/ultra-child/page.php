@@ -83,9 +83,16 @@ get_header(); ?>
 						
 						
 					} else if(url.includes("dna-standards")){
-						prodRow =  	'<tr><td>ZymoBIOMICS Microbial Community DNA Standard</td><td>D6305</td><td>200 ng</td><td>$104.00</td><td class="inputCell"><input style="padding:0; " type="text" name="qty[1653]" maxlength="12" placeholder="0" title="Qty" class="input-text qty" id="qtyinput" onchange="save_id(1653, this.value)" prodid="1653"></td></tr>' +
+						prodRow = 	'<tr><td>ZymoBIOMICS Microbial Community DNA Standard</td><td>D6305</td><td>200 ng</td><td>$104.00</td><td class="inputCell"><input style="padding:0; " type="text" name="qty[1653]" maxlength="12" placeholder="0" title="Qty" class="input-text qty" id="qtyinput" onchange="save_id(1653, this.value)" prodid="1653"></td></tr>' +
 						
 						'<tr><td>ZymoBIOMICS Microbial Community DNA Standard</td><td>D6306</td><td>2000 ng</td><td>$208.00</td><td class="inputCell"><input style="padding:0; " type="text" name="qty[1654]" maxlength="12" placeholder="0" title="Qty" class="input-text qty" id="qtyinput" onchange="save_id(1654, this.value)" prodid="1654"></td></tr>'
+						
+					} else if(url.includes("library-prep-sequencing")){
+						prodRow = '<tr><td>ZymoBIOMICS PCR PreMix</td><td>E2056</td><td>50 Rxns</td><td>$84.00</td><td class="inputCell"><input style="padding:0; " type="text" name="qty[1658]" maxlength="12" placeholder="0" title="Qty" class="input-text qty" id="qtyinput" onchange="save_id(1658, this.value)" prodid="1658"></td></tr>' +
+						
+						'<tr><td>ZymoBIOMICS PCR PreMix</td><td>E2057</td><td>200 Rxns</td><td>$239.00</td><td class="inputCell"><input style="padding:0; " type="text" name="qty[1659]" maxlength="12" placeholder="0" title="Qty" class="input-text qty" id="qtyinput" onchange="save_id(1659, this.value)" prodid="1659"></td></tr>'  +
+						
+						'<tr><td>Femto Bacterial DNA Quantification Kit</td><td>E2006</td><td>100 Rxns</td><td>$209.00</td><td class="inputCell"><input style="padding:0; " type="text" name="qty[1467]" maxlength="12" placeholder="0" title="Qty" class="input-text qty" id="qtyinput" onchange="save_id(1467, this.value)" prodid="1467"></td></tr>'
 						
 					}
 					tableSpace.innerHTML = '<form action="/nicktest" method="post"><table border="1" class="order_table"><thead><tr class="order_table_head"><th>Product</th><th>Cat. No.</th><th>Size</th><th>Price</th><th>Qty</th></tr></thead><tbody>' + prodRow + '</tbody></table><input class="btn" style="float: right; padding: 10px 10px; margin-top: 18px; font-weight: bold;background-color: #1B9644;font-size: 22px;color: white;border-radius: 5px;border: none;cursor: pointer;" onclick="submitProducts();return false;" type="button" value="Add To Cart"></form>'
