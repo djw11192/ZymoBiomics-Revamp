@@ -1,8 +1,8 @@
 <style>
 ul#slider_<?php echo $slider_id; ?> {
 	margin: 0;
-	width: 82%;
-	height: 82%;
+	width: 100%;
+	height: 100%;
 	max-width: <?php echo $slider->get_width() . 'px'; ?>;
 	max-height: <?php echo $slider->get_height() . 'px'; ?>;
 	overflow: visible;
@@ -257,7 +257,7 @@ div[class*=slider-loader-] {
 
 .huge-it-dot-wrap {
 	position: absolute;
-	bottom: 5px;
+	bottom: 0px;
 	left: 50%;
 	transform: translateX(-50%);
 	z-index: 999;
@@ -383,7 +383,7 @@ switch (Hugeit_Slider_Options::get_navigation_type()) {
 	case 1: ?>
 .huge-it-prev {
 	left:0;
-	margin-top:-21px;
+	margin-top:12px;
 	height:64px !important;
 	width:64px;
 	background:url(<?php echo HUGEIT_SLIDER_FRONT_IMAGES_URL .  '/arrows/arrows3.png'; ?>) left  top no-repeat;
@@ -392,7 +392,7 @@ switch (Hugeit_Slider_Options::get_navigation_type()) {
 
 .huge-it-next {
 	right:0;
-	margin-top:-21px;
+	margin-top:12px;
 	height:64px !important;
 	width:64px;
 	background:url(<?php echo HUGEIT_SLIDER_FRONT_IMAGES_URL .  '/arrows/arrows3.png' ?>) right top no-repeat;
