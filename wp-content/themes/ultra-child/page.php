@@ -94,6 +94,8 @@ get_header(); ?>
 						
 						'<tr><td>Femto Bacterial DNA Quantification Kit</td><td>E2006</td><td>100 Rxns</td><td>$209.00</td><td class="inputCell"><input style="padding:0; " type="text" name="qty[1467]" maxlength="12" placeholder="0" title="Qty" class="input-text qty" id="qtyinput" onchange="save_id(1467, this.value)" prodid="1467"></td></tr>'
 						
+					} else if(url.includes("rna-kits")){
+						prodRow = '<tr><td>ZymoBIOMICS™ RNA Miniprep Kit</td><td>R2001</td><td>50 Preps</td><td>$425.00</td><td class="inputCell"><input style="padding:0; " type="text" name="qty[1687]" maxlength="12" placeholder="0" title="Qty" class="input-text qty" id="qtyinput" onchange="save_id(1687, this.value)" prodid="1687"></td></tr>'
 					}
 					tableSpace.innerHTML = '<form action="/nicktest" method="post"><table border="1" class="order_table"><thead><tr class="order_table_head"><th>Product</th><th>Cat. No.</th><th>Size</th><th>Price</th><th>Qty</th></tr></thead><tbody>' + prodRow + '</tbody></table><input class="btn" style="float: right; padding: 10px 10px; margin-top: 18px; font-weight: bold;background-color: #1B9644;font-size: 22px;color: white;border-radius: 5px;border: none;cursor: pointer;" onclick="submitProducts();return false;" type="button" value="Add To Cart"></form>'
 					
